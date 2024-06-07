@@ -1,0 +1,2 @@
+show
+execute_script script_rec1.txt
